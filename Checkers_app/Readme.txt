@@ -1,1 +1,0 @@
-An app for online mode of our checkers.
